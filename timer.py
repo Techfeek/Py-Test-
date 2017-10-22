@@ -1,5 +1,5 @@
 import time
-for i in range (1,11):
+for i in range (1,3000000000000000000000000000000):
     print (i)
-    time.sleep (.1111111)
+    time.sleep (1)
     
