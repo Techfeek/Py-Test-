@@ -1,5 +1,5 @@
-for mu in range (1, 101):
-    for i in range (1,101):
+for mu in range (1, 200000000000000000000000000000000000000):
+    for i in range (1,2000000000000000000000000000000000000):
         print (i, 'x', mu, "=", i*mu)
     print 
                
