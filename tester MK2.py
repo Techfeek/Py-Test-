@@ -7,3 +7,10 @@ if Q1 == ('yes'):
     for t in range (1,6):
       print (t)
       time.sleep (1)
+    NumLine = int(200000000000000000000000000000000000000000000000)
+    NumStars= int(200000000000000000000000000000000000000000000000 )
+    for line in range (0, NumLine):
+      for star in range (0,NumStars):
+        print ('*'* star)
+    print 
+    
